@@ -69,7 +69,7 @@ class preload
             ],
         ],
         [
-            'include' => __DIR__ . '/app/Views',
+            'include' => __DIR__ . '/app/Views/index.php',
             'exclude' => [
                 // Add any specific views you want to exclude here.
             ],
